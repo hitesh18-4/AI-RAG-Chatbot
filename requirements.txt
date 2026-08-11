@@ -1,0 +1,18 @@
+# UI framework
+streamlit==1.38.0
+
+# LangChain core + community integrations (PyPDFLoader, Chroma wrapper, chains)
+langchain==0.3.7
+langchain-community==0.3.5
+
+# Google Gemini LLM + embeddings integration for LangChain
+langchain-google-genai==2.0.4
+
+# Vector database for storing embeddings and running semantic search
+chromadb==0.5.20
+
+# PDF parsing (used internally by PyPDFLoader)
+pypdf==5.1.0
+
+# Loads GEMINI_API_KEY from a .env file
+python-dotenv==1.0.1
