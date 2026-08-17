@@ -1,5 +1,7 @@
 # 📄 RAG PDF Chat — Clean Architecture Edition
 
+https://ai-rag-chatbot-pwwcd36vg5tq9elptpmoux.streamlit.app/
+
 A beginner-to-intermediate **Retrieval-Augmented Generation (RAG)** project built with a
 clean, layered architecture — designed to be walked through in a software developer
 interview.
